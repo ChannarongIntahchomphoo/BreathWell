@@ -1,0 +1,20 @@
+{
+  "short_name": "BreathWell",
+  "name": "BreathWell: Calm & Focus",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/breathwell/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/breathwell/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a4373",
+  "background_color": "#f5f5f5"
+}
